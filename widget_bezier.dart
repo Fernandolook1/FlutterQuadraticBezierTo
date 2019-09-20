@@ -22,7 +22,7 @@ class  BezierWidget extends StatelessWidget{
 
 class ClipHome extends CustomClipper<Path>{
   @override
-  Path getClip(Size size) {
+  Path getClip(Size size ) {
 
     Path path = Path();
 
